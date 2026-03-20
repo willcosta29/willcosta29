@@ -1,11 +1,11 @@
 # Olá! Eu sou o William 👋
 
-[cite_start]Sou estudante de Ciência de Dados na Estácio [cite: 28] [cite_start]e atuo como Analista de Dados e BI [cite: 4][cite_start], com um viés prático em Python, SQL e Engenharia de Dados[cite: 6]. [cite_start]Trago para a área de tecnologia a resiliência e a disciplina desenvolvidas ao longo de quase uma década como profissional autônomo [cite: 38][cite_start], onde já organizava e geria bases de dados operacionais com Excel avançado[cite: 39], além da minha primeira vivência no mundo corporativo como Jovem Aprendiz na Nestlé. [cite_start]Atualmente, tenho foco na redução de custos [cite: 8] [cite_start]e possuo experiência com implementação de pipelines serverless (AWS, Lambda, Athena, S3) e processos de ETL[cite: 7].
+Sou estudante de Ciência de Dados na Estácio e atuo como Analista de Dados e BI, com um viés prático em Python, SQL e Engenharia de Dados. Trago para a área de tecnologia a resiliência e a disciplina desenvolvidas ao longo de quase uma década como profissional autônomo, onde já organizava e geria bases de dados operacionais com Excel avançado, além da minha primeira vivência no mundo corporativo como Jovem Aprendiz na Nestlé. Atualmente, tenho foco na redução de custos e possuo experiência com implementação de pipelines serverless (AWS, Lambda, Athena, S3) e processos de ETL.
 
 ### 🚀 Sobre mim
-- [cite_start]🔭 Construindo meu portfólio com projetos práticos de análise de crédito, tratamento de dados de remuneração global e criação de painéis interativos[cite: 35, 46, 65].
-- [cite_start]🌱 Cursando **Ciência de Dados** na Estácio [cite: 28] [cite_start]e formado no curso de Analista de Dados pela **EBAC**[cite: 29].
-- [cite_start]💼 Buscando oportunidades para ajudar empresas na melhoria de processos e na tomada de decisões estratégicas baseadas em dados[cite: 40].
+- 🔭 Construindo meu portfólio com projetos práticos de análise de crédito, tratamento de dados de remuneração global e criação de painéis interativos.
+- 🌱 Cursando **Ciência de Dados** na Estácio e formado no curso de Analista de Dados pela **EBAC**.
+- 💼 Buscando oportunidades para ajudar empresas na melhoria de processos e na tomada de decisões estratégicas baseadas em dados.
 - ⚡ **Curiosidades:** Fora das planilhas e do código, mantenho o foco correndo de 15 a 20 km por semana, estudo estratégias de Poker, leio clássicos da literatura (Tolstói, Dostoiévski, Jane Austen) e acompanho os jogos do Flamengo.
 
 ---
