@@ -37,7 +37,7 @@ Acompanhando meu ritmo de estudos e commits diários:
 ---
 
 <div>
-  <img align="center" alt="Python" height="200" width="400" src="gif dash.gif" />
+  <img align="center" alt="Python" height="200" width="400" src="https://github.com/willcosta29/Tratamento-de-Dados-de-Salarios-em-Data-Science/blob/4e493feba318218a87e67560ce1d8da5e8ce2d95/gif%20dash.gif" />
 </div>
 
 ---
