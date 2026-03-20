@@ -36,6 +36,12 @@ Acompanhando meu ritmo de estudos e commits diários:
 
 ---
 
+<div>
+  <img align="center" alt="Python" height="200" width="400" src="gif dash.gif" />
+</div>
+
+---
+
 ### 🐍 Histórico de Contribuições
 
 ![Snake animation](https://github.com/willcosta29/willcosta29/blob/output/github-contribution-grid-snake.svg)
