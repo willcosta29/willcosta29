@@ -31,7 +31,7 @@ No meu dia a dia explorando bases de dados, utilizo:
 Acompanhando meu ritmo de estudos e commits diários:
 
 <div align="center">
-  <a href="https://github.com/willcosta29">
+  <a href="https://github.com/william-costa-analista">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william-costa-analista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-costa-analista&layout=compact&langs_count=7&theme=dracula"/>
   </a>
@@ -47,7 +47,7 @@ Acompanhando meu ritmo de estudos e commits diários:
 
 ### 🐍 Histórico de Contribuições
 
-![Snake animation](https://github.com/willcosta29/william-costa-analista/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/william-costa-analista/william-costa-analista/blob/output/github-contribution-grid-snake.svg)
 
 ### 📫 Como me encontrar
 
