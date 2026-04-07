@@ -32,22 +32,22 @@ Acompanhando meu ritmo de estudos e commits diários:
 
 <div align="center">
   <a href="https://github.com/willcosta29">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willcosta29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willcosta29&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william-costa-analista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-costa-analista&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
 ---
 
 <div>
-  <img align="center" alt="Python" height="800" width="1200" src="https://github.com/willcosta29/Tratamento-de-Dados-de-Salarios-em-Data-Science/blob/4e493feba318218a87e67560ce1d8da5e8ce2d95/gif%20dash.gif" />
+  <img align="center" alt="Python" height="800" width="1200" src="https://github.com/william-costa-analista/Tratamento-de-Dados-de-Salarios-em-Data-Science/blob/4e493feba318218a87e67560ce1d8da5e8ce2d95/gif%20dash.gif" />
 </div>
 
 ---
 
 ### 🐍 Histórico de Contribuições
 
-![Snake animation](https://github.com/willcosta29/willcosta29/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/willcosta29/william-costa-analista/blob/output/github-contribution-grid-snake.svg)
 
 ### 📫 Como me encontrar
 
